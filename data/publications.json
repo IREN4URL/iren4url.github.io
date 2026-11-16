@@ -1,5 +1,22 @@
 [
   {
+    "id": "icon-hallucinations-2026",
+    "year": 2026,
+    "kind": "paper",
+    "area": "Machine Translation",
+    "venueShort": "ICON 2026",
+    "title": "Diagnosing Hallucinations in Low-Resource Machine Translation: Data Augmentation and Decode-Time Reranking for Northeastern Indian Languages",
+    "authors": "Vikas Kumar, Rudali Huidrom, Abhishek Sharma, Hoomexsun Pangsatabam, and Anand Konjengbam",
+    "venue": "To appear in Proceedings of the 23rd International Conference on Natural Language Processing (ICON 2026)",
+    "note": "Paper ID: 182 · To appear",
+    "links": [
+      {
+        "label": "Accepted list",
+        "url": "https://www.icon2026.org/accepted-papers"
+      }
+    ]
+  },
+  {
     "id": "aura-2026",
     "year": 2026,
     "kind": "paper",
