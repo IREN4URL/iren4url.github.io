@@ -4475,11 +4475,6 @@ footer .wrap {
     backdrop-filter: blur(12px) saturate(180%);
     -webkit-backdrop-filter: blur(12px) saturate(180%);
   }
-
-  section:not(#hero-section) {
-    content-visibility: auto;
-    contain-intrinsic-size: auto 600px;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {

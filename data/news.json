@@ -1,5 +1,48 @@
 [
   {
+    "id": "news-2026-11-icon",
+    "date": "2026-11",
+    "dateFormatted": "November 2026",
+    "category": "Conferences",
+    "badge": "ICON 2026",
+    "title": "Paper on Hallucinations in Low-Resource MT accepted at ICON 2026",
+    "summary": "Our paper on diagnosing hallucinations, data augmentation, and decode-time reranking for Northeastern Indian languages (Paper ID: 182) has been accepted at the 23rd International Conference on Natural Language Processing (ICON 2026).",
+    "presenters": [
+      {
+        "name": "Vikas Kumar",
+        "personId": "vikas-kumar",
+        "url": "#collaborators"
+      },
+      {
+        "name": "Rudali Huidrom",
+        "personId": "rudali-huidrom",
+        "url": "#collaborators"
+      },
+      {
+        "name": "Abhishek Sharma",
+        "personId": "abhishek-sharma",
+        "url": "#collaborators"
+      },
+      {
+        "name": "Hoomexsun Pangsatabam",
+        "personId": "hoomexsun-pangsatabam",
+        "url": "#collaborators"
+      },
+      {
+        "name": "Anand Konjengbam",
+        "personId": "anand-konjengbam",
+        "url": "#collaborators"
+      }
+    ],
+    "links": [
+      {
+        "type": "paper",
+        "label": "Accepted Papers",
+        "url": "https://www.icon2026.org/accepted-papers"
+      }
+    ]
+  },
+  {
     "id": "news-2026-12-wmt",
     "date": "2026-12",
     "dateFormatted": "November 2026",
